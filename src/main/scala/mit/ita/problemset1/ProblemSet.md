@@ -31,5 +31,50 @@
 
 > good
 
-# Problem 1-3
+> correct: 3/3
 
+# Problem 1-3
+## (a)
+Yes
+
+> good
+
+## (b)
+Yes
+
+> good
+
+## (c)
+No
+
+> good
+
+## (d)
+No
+
+> No
+
+> correct: 3/4
+
+# Problem 1-4
+## (a)
+O(nlogn)
+
+> good
+
+## (b)
+O(n)
+
+> no
+
+## (c)
+O(nlogn)
+
+> no
+
+## (d)
+O(nlogn)
+
+> no
+
+> correct: 1/4
